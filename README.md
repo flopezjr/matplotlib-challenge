@@ -2,6 +2,9 @@
 
 # Matplotlib Homework - The Power of Plots
 
+## Analysis
+Over a span of 45 days 249 mice were tested with various treatments for tumor growth.The data set conisted of 50% males and 50% females when I took out my 1 female. Per the data the average tumore volume coinsided with the average weight of the mice when using the Regimen "Capomulin". Per the scatter plot the tumor volume for mouse x401 decreased 33% in the 45 days. Capimulin and Ramacine had the lowest mean in tumor volume. Those are the two that had the biggest impact on tumor size. Ketapril had the largest tumor volume by mean. After the 45 days I would advise Capumulin and Ramacine be the top contenders for treatment.
+
 ## Background
 
 What good is data without a good plot to tell the story?
